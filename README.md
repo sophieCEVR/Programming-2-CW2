@@ -22,4 +22,5 @@ This will output the answers to the above questions.
 ### Grade Received ###
 
 Percentage Grade: 69%
+
 Grade: 2:1
